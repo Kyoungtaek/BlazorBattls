@@ -1,0 +1,9 @@
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\bin\Debug\netstandard2.1\BlazorBattles.Shared.deps.json
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\bin\Debug\netstandard2.1\BlazorBattles.Shared.dll
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\bin\Debug\netstandard2.1\BlazorBattles.Shared.pdb
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.AssemblyInfoInputs.cache
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.AssemblyInfo.cs
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.dll
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.pdb
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.csproj.CoreCompileInputs.cache
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Shared\obj\Debug\netstandard2.1\BlazorBattles.Shared.csprojAssemblyReference.cache
