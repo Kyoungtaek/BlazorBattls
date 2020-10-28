@@ -111,8 +111,6 @@ C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcore
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\netcoreapp3.1\BlazorBattles.Server.csproj.CoreCompileInputs.cache
-C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\netcoreapp3.1\BlazorBattles.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
@@ -133,3 +131,9 @@ C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcore
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\netcoreapp3.1\BlazorBattles.Server.csproj.CoreCompileInputs.cache
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\obj\Debug\netcoreapp3.1\BlazorBattles.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll

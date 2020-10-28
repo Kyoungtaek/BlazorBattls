@@ -30,7 +30,7 @@ Please log in below or <NavLink href="register">Register</NavLink> for a new acc
         if (result.Success)
         {
             ToastService.ShowSuccess(result.Message);
-            await LocaStorage.SetItemAsync<bool>("isAuthenticated", true);
+            await LocaStorage.SetItemAsync<string>("authToken", result.Data);
             await AuthStateProvider.GetAuthenticationStateAsync();
         }
         else

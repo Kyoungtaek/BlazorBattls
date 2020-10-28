@@ -406,6 +406,6 @@ C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstan
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\RmadBkL8jafo4UAyO_YE2jLoMnB3jimLCNoIDEpASIs=.hash
 C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\bMmIE1GSaLYb2sKjyj40NFD8a62nSe07L7h_0jhzy_g=.hash
-C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\LQqSi5z7L7t6Z8sAZQwPBUdx420aUozjwJ-dqNQeTvc=.hash
-C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\eW9NhXU1jBuH10-ApCJ6U9ehe7wDl83lMYj2tfHP5vs=.hash
-C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\Zx402N6a45QSEqS60JSRWJ7WL4E-PbQnn7doAwWpTxs=.hash
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\JLycGDrd3RkwWiJZ9k4g3QqhxKRmIR4QqQ849hKFGvA=.hash
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\CO_lQ6cgvZ0MGuIjQQ1wq8h_jK8RlpjFYtwkGASXktU=.hash
+C:\Users\okts8\source\repos\BlazorBattles\BlazorBattles\Client\obj\Debug\netstandard2.1\integrity\WModqlWy_RietK3JpT9r6ifxxx7e5N8Wga18GDV7fHw=.hash
